@@ -2,6 +2,7 @@
 
 **A Unified Cosmological Model Based on Torsion, Time, and Structure**  
 by Anna Maria Dębniak Sørensen
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15662890.svg)](https://doi.org/10.5281/zenodo.15662890)
 
 ---
 
