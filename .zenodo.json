@@ -1,0 +1,33 @@
+{
+  "title": "GENESIS: A Unified Cosmological Model Based on Torsion, Time, and Structure",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "GENESIS is a falsifiable cosmological framework based on dynamical torsion geometry. It replaces singularities with solitonic structures (Torus AM), explains dark matter and dark energy through geometry, and proposes a new spacetime created by a metric signature flip. Includes full derivations, observables, numerical methods, appendices A–Z, and a poetic narrative.",
+  "creators": [
+    {
+      "name": "Dębniak Sørensen, Anna Maria",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0001-7263-8068"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "version": "v3.12",
+  "keywords": [
+    "cosmology",
+    "torsion",
+    "Einstein–Cartan",
+    "black holes",
+    "signature change",
+    "dark matter",
+    "falsifiability",
+    "theory of everything",
+    "consciousness"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/AnnaMariaDebniakSorensen/GENESIS"
+    }
+  ],
+  "communities": ["cosmology", "quantum-gravity"]
+}
