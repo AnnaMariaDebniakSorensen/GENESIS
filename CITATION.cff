@@ -4,16 +4,15 @@ title: "GENESIS: A Unified Cosmological Model Based on Torsion, Time, and Struct
 authors:
   - family-names: "Dębniak Sørensen"
     given-names: "Anna Maria"
-    orcid: "https://orcid.org/0000-0001-7263-8608"
-
+    orcid: "https://orcid.org/0000-0001-7263-8068"
 date-released: 2025-06-22
 version: "v3.12"
-"doi": "10.5281/zenodo.15662890"
+doi: "10.5281/zenodo.15662890"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/AnnaMariaDebniakSorensen/GENESIS"
 keywords:
   - cosmology
   - torsion
   - signature change
-  - dark matter
   - quantum gravity
+  - falsifiability
