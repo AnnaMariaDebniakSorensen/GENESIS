@@ -77,7 +77,7 @@ GENESIS is released under the [Creative Commons Attribution 4.0 International (C
 ---
 
 For questions or collaboration:  
-📧 professionail.no@gmail.com  
+📧 annamaria.debniak.sorensen@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/anna-maria-s%C3%B8rensen-0950291a6/)
 
 
