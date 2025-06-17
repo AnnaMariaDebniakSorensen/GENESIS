@@ -1,0 +1,2 @@
+# Placeholder for SHA-256 checksums of binary files
+# To be updated after upload of ID_TorusAM.h5 and Benchmarks.pdf
