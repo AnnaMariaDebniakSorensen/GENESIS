@@ -59,3 +59,25 @@ It combines:
 
 If you use or discuss GENESIS in your own research, please cite:
 
+
+---
+
+## 💬 License
+
+GENESIS is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt with proper attribution.
+
+---
+
+## 🌍 External Links
+
+- [arXiv preprint (coming soon)](https://arxiv.org/)  
+- [Zenodo release page](https://zenodo.org/)  
+- [GENESIS for Curious Minds – illustrated narrative version (PDF)](https://link.to.story.pdf)
+
+---
+
+For questions or collaboration:  
+📧 professionail.no@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/anna-maria-s%C3%B8rensen-0950291a6/)
+
+
