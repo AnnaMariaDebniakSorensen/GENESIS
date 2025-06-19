@@ -16,3 +16,14 @@ keywords:
   - signature change
   - quantum gravity
   - falsifiability
+
+
+cff-version: 1.2.0
+title: GENESIS Cosmogenesis Framework
+message: "If you use GENESIS, please cite this version."
+authors:
+  - family-names: Dębniak Sørensen
+    given-names: Anna Maria
+    orcid: https://orcid.org/0009-0001-7263-8068
+date-released: 2025-06-19
+doi: 10.5281/zenodo.15701148
