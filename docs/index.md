@@ -1,3 +1,5 @@
+<img src="./banner_genesis.png" alt="GENESIS Banner" style="width:100%; border-radius:12px; margin-bottom:20px;">
+
 # GENESIS Cosmogenesis Framework
 
 **DOI:** [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148)  
