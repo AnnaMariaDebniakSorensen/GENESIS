@@ -1,0 +1,11 @@
+schedule TorsionScal_Init at CCTK_INITIAL
+{
+  LANG: C
+  OPTIONS: GLOBAL
+} "Initialize torsion field"
+
+schedule TorsionScal_Evolve at CCTK_EVOL
+{
+  LANG: C
+  OPTIONS: LEVEL
+} "Evolve the scalar torsion field"
