@@ -39,7 +39,7 @@ All predictions are observationally testable.
 
 > *“GENESIS is not a bounce. Not a scalar. Not an approximation. It is the structure from which time begins.”*
 
-<img src="images/genesis-donut.png" alt="GENESIS cosmic donut banner" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 0 10px #444;">
+<img src="./genesis-donut.png" alt="GENESIS cosmic donut banner" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 0 10px #444;">
 
 
 
