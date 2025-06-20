@@ -1,0 +1,29 @@
+# GENESIS + TorsionScal minimal working thornlist
+
+# Core infrastructure
+CactusBase/CoordBase
+CactusBase/Time
+CactusBase/CartGrid3D
+CactusBase/Boundary
+CactusBase/IOBasic
+CactusBase/IOASCII
+CactusBase/IOUtil
+CactusBase/InitBase
+CactusBase/Driver
+
+# Method of Lines integration
+CactusNumerical/MoL
+
+# ADM & BSSN evolution
+EinsteinBase/ADMBase
+EinsteinBase/ADMCoupling
+EinsteinBase/StaticConformal
+EinsteinEvolve/BSSNMoL
+
+# Torsion scalar evolution (GENESIS model)
+GENESIS/TorsionScal
+
+# Analysis and output
+CactusBase/IOASCII
+CactusNumerical/AEILocalInterp
+CactusUtils/NaNChecker
