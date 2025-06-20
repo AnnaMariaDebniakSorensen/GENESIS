@@ -32,7 +32,7 @@ All predictions are observationally testable.
 
 ## 🔗 Resources
 
-- 📄 [Read GENESIS-9.pdf](../GENESIS-9.pdf)  
+- 📄 [Read GENESIS-10.pdf](../GENESIS-10.pdf)  
 - 🧠 [Machine metadata (meta.yaml)](../GENESIS-meta.yaml)  
 - 🧷 [Release notes](../release-notes.md)  
 - 🧵 [Launch tweet](../tweet.txt)
