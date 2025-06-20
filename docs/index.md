@@ -35,11 +35,6 @@ All predictions are observationally testable.
 - 📄 ### 📄 Download the full paper (PDF)
 
 👉 [Click here to read GENESIS-10.pdf](GENESIS-10.pdf)
- 
-- 🧠 [Machine metadata (meta.yaml)](../GENESIS-meta.yaml)  
-- 🧷 [Release notes](../release-notes.md)  
-- 🧵 [Launch tweet](../tweet.txt)
 
----
 
 > *“GENESIS is not a bounce. Not a scalar. Not an approximation. It is the structure from which time begins.”*
