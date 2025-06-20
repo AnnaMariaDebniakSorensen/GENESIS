@@ -1,0 +1,45 @@
+# TorsionScal Example Parfile — GENESIS Model (1D test)
+
+ActiveThorns = "
+  CoordBase Time CartGrid3D
+  IOASCII IOUtil InitBase
+  TorsionScal ADMBase Driver MoL
+"
+
+# Grid setup
+CoordBase::domainsize         = "minmax"
+CoordBase::xmin               =  0.0
+CoordBase::xmax               = 10.0
+CoordBase::ymin               =  0.0
+CoordBase::ymax               =  0.0
+CoordBase::zmin               =  0.0
+CoordBase::zmax               =  0.0
+
+CartGrid3D::type              = "uniform"
+CartGrid3D::domain            = "full"
+CartGrid3D::ncells_x          = 200
+CartGrid3D::ncells_y          = 1
+CartGrid3D::ncells_z          = 1
+
+# Time integration
+Cactus::cctk_itlast           = 5000
+Cactus::cctk_final_time       = 10.0
+Cactus::cctk_initial_time     = 0.0
+Cactus::cctk_delta_time       = 0.01
+
+# I/O settings
+IO::out_dir                   = "output"
+IOBasic::outInfo_every        = 100
+IOASCII::out1d_every          = 50
+IOASCII::out1d_vars           = "Torsion Torsion_rhs"
+
+# MoL integrator
+MoL::ODE_Method               = "RK4"
+MoL::MoL_Num_Evolved_Vars    = 1
+MoL::MoL_Evolved_Vars         = "Torsion"
+MoL::MoL_RHS_VarNames         = "Torsion_rhs"
+
+# GENESIS torsion parameters
+TorsionScal::beta             = 1.0
+TorsionScal::lambda           = 0.3
+TorsionScal::S_Pl             = 5.5e18
