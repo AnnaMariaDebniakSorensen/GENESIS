@@ -1,0 +1,12 @@
+private:
+  REAL beta "Kinetic coefficient" {
+    (0.0:*::"Positive only")
+  } 0.1
+
+  REAL lambda "Self-coupling" {
+    (0.0:*::"Positive only")
+  } 0.34
+
+  REAL S_Pl "Condensation threshold" {
+    (0.0:*::"Planck value")
+  } 5.52e18
