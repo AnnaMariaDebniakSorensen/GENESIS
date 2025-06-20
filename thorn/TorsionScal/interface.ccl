@@ -1,0 +1,6 @@
+implements: TorsionScal
+inherits:  ADMBase
+
+uses:
+  grid::x, grid::y, grid::z
+  CCTK_REAL Torsion[], Torsion_rhs[]
