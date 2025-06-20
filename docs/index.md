@@ -42,59 +42,6 @@ All predictions are observationally testable.
 <img src="genesis-donut.png" alt="GENESIS cosmic donut banner" style="max-width:100%; height:auto; border-radius: 8px; box-shadow: 0 0 10px #444;">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>GENESIS – A New Cosmological Model</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #0e0e1a;
-      color: #e0e0e0;
-      line-height: 1.6;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1 {
-      font-size: 2em;
-      margin-bottom: 1rem;
-      color: #ffcc00;
-    }
-    .emoji {
-      font-size: 1.2em;
-      margin-right: 0.4em;
-    }
-    .highlight {
-      background: #222;
-      padding: 0.2em 0.5em;
-      border-radius: 4px;
-      color: #80dfff;
-    }
-    a {
-      color: #80dfff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    ul li::before {
-      content: "✅ ";
-      color: #90ee90;
-    }
-    .footer {
-      margin-top: 2rem;
-      font-size: 0.9em;
-      color: #999;
-    }
-  </style>
-</head>
-<body>
 
   <h1><span class="emoji">📣</span>Tired of patching <span class="highlight">ΛCDM</span>?</h1>
 
