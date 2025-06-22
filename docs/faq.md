@@ -1,7 +1,9 @@
 ---
 layout: default
 title: GENESIS – FAQ
+mathjax: true
 ---
+
 
 
 https://zenodo.org/records/15701148
