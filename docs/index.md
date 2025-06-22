@@ -1,3 +1,8 @@
+> **What is GENESIS?**  
+GENESIS is a falsifiable cosmological model that replaces the Big Bang singularity with a rotating torsion core (Torus AM), offering geometric solutions to dark matter, dark energy, inflation, baryogenesis, and quantum gravity — all without new particles.
+
+If you're new here, start with the [FAQ for sceptics](https://annamariadebniaksorensen.github.io/GENESIS/faq) — the most challenging questions, answered with precision.
+
 <img src="./banner_genesis.png" alt="GENESIS Banner" style="width:100%; border-radius:12px; margin-bottom:20px;">
 
 # GENESIS Cosmogenesis Framework
