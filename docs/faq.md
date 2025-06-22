@@ -1,16 +1,20 @@
+
+
+https://zenodo.org/records/15701148
+---
+layout: default
+title: GENESIS FAQ
+mathjax: true
+---
+
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async
  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+## GENESIS – Frequently Asked Questions
 
-layout: default
-title: FAQ – GENESIS Cosmological Model
----------------------------------------
-
-# GENESIS – FAQ for Sceptics
-
-Welcome! This page lists the ten most common and challenging questions that sceptics might ask about the GENESIS cosmological model, along with concise scientific responses based on the published manuscript.
+This page addresses the most challenging questions from sceptics of the GENESIS model — a falsifiable cosmological framework based on Einstein–Cartan geometry with dynamical torsion.
 
 ---
 
@@ -18,9 +22,9 @@ Welcome! This page lists the ten most common and challenging questions that scep
 
 **Answer:**
 
-* GENESIS includes a torsion-matter coupling constant ($\eta$ in Eq. 38) that is extremely weak ($\sim 10^{-18}$) under normal conditions.
-* Torsion effects dominate only at Planck densities ($S_{\text{Pl}} \sim 10^{18}$ GeV), far beyond LHC reach.
-* Analogy: gravity was undetectable at quantum scales until LIGO arrived.
+- GENESIS includes a torsion–matter coupling constant \( \eta \) (Eq. 38) that is extremely weak: \( \eta \sim 10^{-18} \).
+- Torsion effects become significant only at Planck densities: \( S_{\text{Pl}} \sim 10^{18} \, \text{GeV} \), beyond the reach of current accelerators.
+- *Analogy:* Gravity was undetectable at quantum scales before LIGO.
 
 ---
 
@@ -28,26 +32,30 @@ Welcome! This page lists the ten most common and challenging questions that scep
 
 **Answer:**
 
-* Eq. (36) includes a positive pressure term $\Delta_{\text{torsion}}(r) \sim \alpha S^2/2$, balancing gravitational collapse.
-* Linear stability is proven via $V_{\text{eff}} > 0$ (Eq. 32); nonlinear stability can be confirmed via BSSN simulations (App. F).
+- Equation (36) includes a stabilising torsional pressure term:  
+  \( \Delta_{\text{torsion}}(r) \sim \alpha S^2 / 2 \),  
+  which balances gravitational attraction.
+- Linear stability is ensured by the condition \( V_{\text{eff}} > 0 \) (Eq. 32).  
+  Nonlinear stability can be tested via BSSN simulations (App. F).
 
 ---
 
-### 3. How does GENESIS explain the $\Omega_{\text{DM}}/\Omega_{\text{baryon}} \approx 5$ ratio?
+### 3. How does GENESIS explain the ratio \( \Omega_{\text{DM}} / \Omega_{\text{baryon}} \approx 5 \)?
 
 **Answer:**
 
-* Section 10.11: CP-violating axial torsion in the THA generates baryon asymmetry.
-* Torsion solitons (Torus AM defects) contribute $\Omega_{\text{DM}}$ via a Kibble–Zurek-like freeze-out.
+- In Sec. 10.11, axial torsion in the THA leads to CP-violating baryogenesis.
+- The freeze-out of torsion solitons (Torus AM defects) via a Kibble–Zurek mechanism yields \( \Omega_{\text{DM}} \sim 5 \, \Omega_b \).
 
 ---
 
-### 4. Where does the dark energy scale ($T_0 \sim 10^{-3}$ eV) come from?
+### 4. Where does the dark energy scale \( T_0 \sim 10^{-3} \, \text{eV} \) come from?
 
 **Answer:**
 
-* Eq. (109): residual angular momentum of Torus AM becomes embedded in the metric as $\Lambda \sim (\hbar S_0)^2 / m_{\text{Pl}}^2$.
-* $T_0$ is redshifted from the Planck scale via torsional relaxation (Sec. 11.4).
+- Residual angular momentum of the Torus AM gets embedded in the metric as  
+  \( \Lambda \sim \frac{(\hbar S_0)^2}{m_{\text{Pl}}^2} \)  (Eq. 109).
+- This scale is redshifted from Planck energies by torsional relaxation (Sec. 11.4).
 
 ---
 
@@ -55,8 +63,8 @@ Welcome! This page lists the ten most common and challenging questions that scep
 
 **Answer:**
 
-* Eq. (13) shows torsion couples only to spin, not mass, preserving universality of free fall.
-* Geodesic motion remains intact (Sec. 5.2).
+- No. Torsion couples only to spin — not mass — via Eq. (13), preserving universality of free fall.
+- Geodesic motion remains valid (Sec. 5.2).
 
 ---
 
@@ -64,26 +72,26 @@ Welcome! This page lists the ten most common and challenging questions that scep
 
 **Answer:**
 
-* Current detectors are limited above 1 kHz.
-* GENESIS predicts such echoes will become visible with ET or Cosmic Explorer in 2028+.
+- Current LIGO/Virgo detectors are noise-limited above 1 kHz.
+- GENESIS predicts echoes in the 3–5 kHz band, detectable with **Einstein Telescope** or **Cosmic Explorer**.
 
 ---
 
-### 7. Where’s the evidence for a metric signature flip ($-+++ \rightarrow +---$)?
+### 7. Where is the observational evidence for a metric signature flip?
 
 **Answer:**
 
-* Indirect evidence: CMB anisotropies and parity violation in B-modes (Sec. 12.2).
-* Signature change may be encoded in initial symmetry breaking in THA.
+- Indirect clues exist in parity-violating B-mode polarisation (Sec. 12.2) and CMB anomalies.
+- The flip \( -,+,+,+ \rightarrow +,-,-,- \) originates in THA symmetry breaking.
 
 ---
 
-### 8. Why doesn’t GENESIS predict gamma-ray excess from dark matter halos?
+### 8. Why doesn’t GENESIS predict a gamma-ray excess from dark matter?
 
 **Answer:**
 
-* Torus AM solitons are topological defects, not annihilating particles (Sec. 8.10).
-* Weak coupling to neutrinos may be testable in DUNE (Sec. 9.4).
+- Torus AM are **topological defects**, not annihilating WIMPs.
+- They don’t produce gamma rays but may couple weakly to neutrinos (Sec. 9.4), testable by DUNE.
 
 ---
 
@@ -91,25 +99,35 @@ Welcome! This page lists the ten most common and challenging questions that scep
 
 **Answer:**
 
-* Appendix C shows torsional entropy $S_{\text{torsion}} \propto \int_{\text{THA}} T^2 \sqrt{h} d^2x$ increases during Torus AM formation, compensating matter entropy loss.
+- No. Appendix C shows that torsional entropy  
+  \( S_{\text{torsion}} \propto \int_{\text{THA}} T^2 \sqrt{h} \, d^2x \)  
+  increases, compensating entropy loss from matter.
 
 ---
 
-### 10. Why do we need GENESIS if $\Lambda$CDM works?
+### 10. Why do we need GENESIS if ΛCDM fits the data?
 
 **Answer:**
 
-* $\Lambda$CDM is a phenomenological fit with 18 parameters; GENESIS is a mechanism from first principles.
-* GENESIS resolves the Hubble tension, dark matter nature, lack of inflaton, and unifies multiple effects into a geometric framework.
-* Predicts new effects: gravitational wave echoes, 21 cm absorption, CMB parity violation.
+- ΛCDM is a **phenomenological fit** with 18 parameters. GENESIS provides a **mechanism from first principles**:
+  - Explains inflation, baryogenesis, dark matter & dark energy structurally.
+  - Resolves Hubble tension.
+  - Predicts **new** testable phenomena:  
+    gravitational wave echoes,  
+    21 cm torsion-induced cooling,  
+    CMB parity-violation.
 
 ---
 
-### Bonus: How to handle emotional scepticism?
+### Bonus: How to respond to emotional objections?
 
-* “Too beautiful to be true!” → So was general relativity in 1915.
-* “There’s no proof!” → Eq. 86 matches halo profiles; Eq. 122 fits $H_0$ better than $\Lambda$CDM.
+- *“Too beautiful to be true!”* → So was general relativity in 1915.  
+- *“No evidence!”* → Eq. (86) matches DM halo profiles; Eq. (122) fits \( H_0 \) better than ΛCDM.
 
 ---
+
+**This FAQ will be updated regularly as the discussion evolves.**  
+Please cite and share this page if you engage with GENESIS-related debate.
+
 
 *This FAQ is part of the official GENESIS GitHub site and will be updated as new questions emerge. Share widely and cite responsibly.*
