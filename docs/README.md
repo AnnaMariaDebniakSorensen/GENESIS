@@ -66,3 +66,10 @@ If you refer to this work, please cite:
   doi          = {10.5281/zenodo.15701148},
   url          = {https://zenodo.org/records/15701148}
 }
+
+📖 APA
+
+Dębniak Sørensen, A. M. (2025). GENESIS: A Unified Cosmological Model Based on Torsion, Time, and Structure (v3.12). Zenodo. https://doi.org/10.5281/zenodo.15701148
+📝 MLA
+
+Dębniak Sørensen, Anna Maria. GENESIS: A Unified Cosmological Model Based on Torsion, Time, and Structure. Version 3.12, Zenodo, 2025, https://doi.org/10.5281/zenodo.15701148.
